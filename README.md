@@ -1,0 +1,1 @@
+This is a YouTube Bot which searches for comments from Investing Scammers.
