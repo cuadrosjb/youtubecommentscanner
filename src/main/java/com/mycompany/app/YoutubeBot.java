@@ -39,7 +39,13 @@ public class YoutubeBot {
     private static final String APPLICATION_NAME = "spam-comment-detector";
     private static final JsonFactory JSON_FACTORY = JacksonFactory.getDefaultInstance();
 
-    private static final String CHANNEL_ID = "UC4a-9NnHFv4ZhI-HWc4xNaA";
+    private static final String CHANNEL_ID = "UCV6KDgJskWaEckne5aPA0aQ";
+    //Jeremy Financial Education 3 = UC_xMKlHYdRNXLX9XzuOLjsg
+    //Jeremy Financial Education = UCnMn36GT_H0X-w5_ckLtlgQ
+    //Trey's Trade = UC4a-9NnHFv4ZhI-HWc4xNaA
+    //Matt Kohrs = UCWKODoiwSuLNSXIKuKnuQTQ
+    //Graham Stephan = UCV6KDgJskWaEckne5aPA0aQ
+
 
     /**
      * Build and return an authorized API client service.
