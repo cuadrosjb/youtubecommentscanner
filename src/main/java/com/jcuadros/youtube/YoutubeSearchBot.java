@@ -1,4 +1,4 @@
-package com.jcuadros.youtube.bot;
+package com.jcuadros.youtube;
 
 import com.google.api.services.youtube.YouTube;
 import com.google.api.services.youtube.model.SearchListResponse;

@@ -14,9 +14,8 @@ import com.google.api.client.json.jackson2.JacksonFactory;
 
 import com.google.api.services.youtube.YouTube;
 import com.google.api.services.youtube.model.*;
-import com.jcuadros.youtube.bot.Utilities;
-import com.jcuadros.youtube.bot.YoutubeCommentThreadsBot;
-import com.jcuadros.youtube.bot.YoutubeSearchBot;
+import com.jcuadros.youtube.YoutubeCommentThreadsBot;
+import com.jcuadros.youtube.YoutubeSearchBot;
 import com.mongodb.MongoClientURI;
 import com.mongodb.MongoClient;
 import com.mongodb.MongoWriteException;
